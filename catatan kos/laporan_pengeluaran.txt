@@ -1,0 +1,19 @@
+==================================================
+LAPORAN PENGELUARAN ANAK KOS
+==================================================
+Jumlah catatan     : 7
+Total pengeluaran  : Rp 167.000
+Rata-rata per hari : Rp 41.750
+
+Total per kategori:
+  - makan       : Rp 65.000
+  - listrik     : Rp 50.000
+  - internet    : Rp 40.000
+  - transport   : Rp 12.000
+
+Kategori terboros  : makan (Rp 65.000)
+
+3 pengeluaran terbesar:
+  2025-10-02 | listrik    | token listrik        | Rp 50.000
+  2025-10-03 | internet   | paket data           | Rp 40.000
+  2026-10-11 | makan      | -                    | Rp 20.000

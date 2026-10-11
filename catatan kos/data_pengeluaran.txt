@@ -1,0 +1,10 @@
+2025-10-01 | makan | nasi ayam | 15000 | tunai
+2025-10-01 | transport | ojek online | 12000 | QRIS
+2025-10-02 | listrik | token listrik | 50000 | transfer
+2025-10-02 | makan | kopi susu | 10000
+2025-10-03 | internet | paket data | 40000 | QRIS
+2025-10-03 | makan | soto | abc
+#data rusak tanpa pemisah
+2025-10-04 | jajan | boba | -5000
+ 2026-10-11 | makan | - | 20000 | cash
+2026-10-11 | makan | - | 20000 | cash

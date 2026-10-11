@@ -1,0 +1,14 @@
+LAPORAN ANALISIS SUHU MINGGUAN
+==============================
+Senin: 31.0 derajat - Normal
+Selasa: 33.0 derajat - Panas
+Rabu: 29.0 derajat - Normal
+Kamis: 35.0 derajat - Panas
+Jumat: 32.0 derajat - Panas
+Sabtu: 30.0 derajat - Normal
+Minggu: 28.0 derajat - Normal
+
+Rata-rata suhu: 31.14
+Hari terpanas: Kamis (35.0 derajat)
+Hari terdingin: Minggu (28.0 derajat)
+Jumlah hari panas: 3
